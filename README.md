@@ -1,6 +1,6 @@
 # TicTacToe
 
-###Studying
+### Studying
 
 Starting in game programming with Java.
 
